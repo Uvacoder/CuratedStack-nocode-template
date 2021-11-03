@@ -7,6 +7,12 @@
       "icon": "🔨"
     },
     {
+      "slug": "giudes",
+      "name": "Guides",
+      "description": "Some great guides and tutorials",
+      "icon": "📚"
+    },
+    {
       "slug": "productivity",
       "name": "Productivity",
       "description": "best free productivity tools",
