@@ -7,7 +7,7 @@
       "icon": "🔨"
     },
     {
-      "slug": "giudes",
+      "slug": "guides",
       "name": "Guides",
       "description": "Some great guides and tutorials",
       "icon": "📚"
@@ -25,9 +25,9 @@
       "icon": "💬"
     },
     {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
+      "slug": "resources",
+      "name": "Resources",
+      "description": "best resources",
       "icon": "💰"
     },
     {
