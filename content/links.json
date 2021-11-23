@@ -5,7 +5,7 @@
         "open-source",
         "productivity",
         "design",
-        "finance",
+        "resources",
         "ideas",
         "trends",
         "communication",
@@ -68,7 +68,7 @@
     },
     {
       "categories_slugs": [
-        "finance"
+        "resources"
       ],
       "name": "Revenual",
       "description": "Aggregated sales reports for app makers",
@@ -221,7 +221,7 @@
         "open-source",
         "productivity",
         "design",
-        "finance",
+        "resources",
         "ideas",
         "trends",
         "communication",
